@@ -1,4 +1,4 @@
-def hello():
-    return print("hello world 01")
+def add(a, b):
+    print(f"a+b : {a+b}")
 
-hello()
+add(2,3)
